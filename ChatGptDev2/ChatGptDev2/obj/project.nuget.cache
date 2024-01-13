@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUcddA1HF2sxW6GQbuacGgi2nlUz+K3XyyW5o3CQAK0WlXdKB65RPJ9fJKFaTJVmXQyRnpBacNUEcTEDe2BNTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batuh\\source\\repos\\ChatGptDev2\\ChatGptDev2\\ChatGptDev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batuh\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.8\\azure.ai.openai.1.0.0-beta.8.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\batuh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
